@@ -5,5 +5,8 @@
     4a. Pay over phone
     4b. Pay at door
 5. Wait for delivery
-6. Greed delivery driver
+6. Greet delivery driver
 7. See step 4b if necessary
+8. Remember pizza experience
+    8a. Try again next time
+    8a. Try a different place next time
